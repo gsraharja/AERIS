@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Labih banyak data tentang aplikasi dan penerapan sistemmnya ada di Link G Drive dibawah
+https://drive.google.com/drive/folders/1ajEQNJUzelsvRZ-qb-38Tt9qFhmc7PXq?usp=drive_link
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
